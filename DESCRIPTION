@@ -1,0 +1,25 @@
+Package: MicEnvMod
+Title: Modelling microbial communtity - environment relationships
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jonathan", "Donhauser", , "jdonhauser93@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Functions for modelling relationships between microbial communities and
+  their environment. Currently, the main focus is on calculating variable importance, model cross validation
+  and creating response plots.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+	egg,
+	randomForest,
+	MASS,
+	permute,
+	gridExtra,
+	ggplot2,
+	viridis,
+	grid
+Depends: 
+    R (>= 2.10)
+LazyData: true
