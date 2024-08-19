@@ -1,4 +1,4 @@
-# MicEnvMod: An R package for modelling microbial communtity - environment relationships
+# MicEnvMod: An R package for modelling microbial community - environment relationships
 
 ## Installation
 
