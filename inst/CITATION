@@ -1,0 +1,13 @@
+citHeader("To cite package 'MicEnvMod' in publications use:")
+
+bibentry(
+  bibtype  = "Article",
+  title    = "Modelling soil prokaryotic traits across environments with the trait sequence database ampliconTraits and the R package MicEnvMod",
+  author   = "Jonathan Donhauser, Anna Doménech-Pascual, Xingguo Han, Karen Jordaan, Jean-Baptiste Ramond, Aline Frossard, Anna M. Romaní, Anders Priemé",
+  journal  = "Ecological Informatics",
+  year     = "2024",
+  volume   = "83",
+  pages    = "102817",
+  doi      = "10.1016/j.ecoinf.2024.102817"
+)
+
