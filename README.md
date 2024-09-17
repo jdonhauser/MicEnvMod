@@ -21,5 +21,5 @@ glm cross validation by repeated split sampling with stepwise selection. Assesse
 ### crossVal.ensemble
 Cross validation of weighte ensemble models from different model types by repeated split sampling
 
-# Reference
+## Reference
 Donhauser, J., Doménech-Pascual, A., Han, X., Jordaan, K., Ramond, J.-B., Frossard, A., Romaní, A.M., Priemé, A., 2024. Modelling soil prokaryotic traits across environments with the trait sequence database *ampliconTraits* and the R package *MicEnvMod*. Ecological Informatics 83, 102817. doi:10.1016/j.ecoinf.2024.102817
